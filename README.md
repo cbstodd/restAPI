@@ -1,2 +1,2 @@
 # restAPI
-Basic Node and perhaps TypeScript versions of a reusualble RESTful API.
+Basic Node and perhaps TypeScript versions of a reusable RESTful API.

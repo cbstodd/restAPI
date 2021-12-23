@@ -1,0 +1,35 @@
+{
+  "name": "restapi",
+  "version": "0.0.1",
+  "description": "Starter REST API with all the staple basics to get going fast but not tying you down",
+  "main": "app.js",
+  "scripts": {
+    "dev-server": "nodemon ./server.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbstodd/restAPI.git"
+  },
+  "keywords": [
+    "node",
+    "restapi",
+    "crud",
+    "sampleapp",
+    "starterapp"
+  ],
+  "author": "Colin Stodd <https://colinstodd.com/>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/cbstodd/restAPI/issues"
+  },
+  "homepage": "https://github.com/cbstodd/restAPI#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jshint": "^2.13.1",
+    "nodemon": "^2.0.15"
+  }
+}
