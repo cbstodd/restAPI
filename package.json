@@ -26,7 +26,7 @@
   "homepage": "https://github.com/cbstodd/restAPI#readme",
   "dependencies": {
     "dotenv": "^10.0.0",
-    "express": "^4.17.1"
+    "express": "^4.20.0"
   },
   "devDependencies": {
     "jshint": "^2.13.1",
